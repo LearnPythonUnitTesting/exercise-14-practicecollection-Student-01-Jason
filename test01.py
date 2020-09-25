@@ -14,3 +14,4 @@ class TestDemo(unittest.TestCase):
 
     def test_multiply(self):
         self.assertEqual(multiply(10, 5), 50)
+ 
